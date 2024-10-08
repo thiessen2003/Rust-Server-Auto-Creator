@@ -1,3 +1,17 @@
+# Rust Server Auto Creator
+
+**Rust Server Auto Creator** is a Rust-based program that integrates with the OpenAI API to automate the creation of web servers. This project aims to simplify and expedite the setup process for Rust web servers by leveraging AI-driven templates and automated code generation.
+
+## Features
+- **Automated Server Creation**: Generates Rust web server code using predefined templates and integrates new features via OpenAI API.
+- **Customizable Templates**: Modify or extend the web server template according to your needs.
+- **AI-Powered Enhancements**: Uses OpenAI API to generate code based on prompts and integrate it into Rust projects.
+  
+## Prerequisites
+
+- Rust installed on your machine.
+- OpenAI API credentials.
+
 ### Create .env
 
 ```shell
